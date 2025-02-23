@@ -1,9 +1,9 @@
 # ML SONAR SIGNAL CLASSIFICATION USING LOGESRIC REGRESSION:
 This project is a machine learning model that classifies sonar signals as either rock (R) or mine (M) using Logistic Regression. The dataset consists of sonar signal readings, where each instance has 60 numerical features representing the reflection of sound waves.
 
-Project Overview
-Dataset: Sonar data (CSV file with 60 features and labels)
-Preprocessing: Splitting data into training and testing sets (90% - 10%)
+*Project Overview*
+* *Dataset: Sonar data (CSV file with 60 features and labels)*
+* *Preprocessing: Splitting data into training and testing sets (90% - 10%)*
 Model: Logistic Regression (using sklearn)
 Evaluation: Accuracy score calculated for both training and test sets
 Prediction: Takes a new sonar reading as input and predicts whether it's a rock or mine
