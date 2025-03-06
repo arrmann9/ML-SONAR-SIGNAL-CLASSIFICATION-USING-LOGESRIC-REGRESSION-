@@ -24,3 +24,9 @@ This project is a machine learning model that classifies sonar signals as either
 * Implement other classifiers (e.g., SVM, Random Forest)
 * Feature engineering to improve accuracy
 * This project was fully implemented by me as part of my machine learning practice..
+  
+**Author:**
+Arman Ahmad
+-> Connect with me on LinkedIn: [www.linkedin.com/in/armanahmad16]
+
+
